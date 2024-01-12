@@ -1,0 +1,6 @@
+remote_host = prg2022.texttechnologylab.org
+remote_database = Musterloesung_Uebung3
+remote_user = Musterloesung_read
+remote_password = 6Z<vj[/QPcSU
+remote_port = 27020
+remote_collection = speech
